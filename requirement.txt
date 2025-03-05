@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+plotly
+scikit-learn
+statsmodels
+fpdf
+shap
+tensorflow
+python-pptx
+xlsxwriter
+
